@@ -1,0 +1,14 @@
+yoyo bro this is the world of sarthak the billionaire i am happiest creature in the world
+to explicitly declare.
+
+So this is basically the code that you need to write
+
+every single time you want to use Body Parser.
+
+Now why would you want to use Body Parser?
+
+Well, it allows you to go into any of your routes, and you can tap into something called request.body,
+
+and this is the parsed version of the HTTP request.
+
+So let's go ahead and log this and see what we get when we try to make a post request.
